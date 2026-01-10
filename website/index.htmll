@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolio Noor Vermeiren</title>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,200;0,300;0,400;1,200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<header>
+    <div class="logo">Portfolio</div>
+    <nav>
+        <a href="#about">Who am I</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Want to know something?</a>
+        <a href="#extra">Learning objectives</a>
+    </nav>
+</header>
+
+<body>
+<section class="hero">
+    <div class="hero-container">
+        <h1>Noor<br>Vermeiren</h1>
+        <p class="subtitle">Graphic designer</p>
+    </div>
+</section>
+
+
+<section class="section" id="about">
+    <div class="container">
+        <h2>Who am I</h2>
+        <p>
+            Als 20-jarige creatieve ontwerper en topsporter combineer ik mijn passie <br>
+            voor grafisch ontwerp
+            met de discipline en focus die <br>
+            ik dagelijks in de atletiek ontwikkel.<br>
+            Met scherp inzicht en oog voor detail streef ik steeds naar <br>kwaliteit, vooruitgang en sterke visuele resultaten.
+        </p>
+        <img src="../images/foto%20portfolio.jpg" alt="foto portfolio" class="mijn-foto" height="  " width="359"/>
+        <footer>
+           E-mail: Noor Vermeiren – Student, PXL.be   |   tel: 0479/03.17.66
+        </footer>
+    </div>
+</section>
+
+
+<section class="section" id="projects">
+    <div class="container">
+        <h2>Projects</h2>
+        <div class="project-grid">
+            <!-- Project 1 -->
+            <div class="project-item">
+                <img src="../images/lp b&w.jpg" height="400" width="400"/>
+                <h3>Fotografische LP hoes</h3>
+                <p>Voor het vak Publication Design moesten we een LP-platenhoes en bijbehorende sticker ontwerpen, met een fotografische insteek. Voor dit project heb ik mijn zus als model gebruikt. Omdat het thema donker was en ging over het straatleven, heb ik gekozen voor een zwart-witbeeld met rode typografie, om zo meer kracht en uitstraling te creëren.</p>
+
+            </div>
+
+            <!-- Project 2 -->
+            <div class="project-item">
+                <img src="../images/boxx b&w.jpg" height="400" width="400"/>
+                <h3>Rebranding Kellogg's Cornflakes</h3>
+                <p>Het vak Brand Design ging over de branding achter een product of merk. Hiervoor heb ik een volledig nieuwe Kellogg’s-doos en -smaak ontworpen, afgestemd op de doelgroep en het bijbehorende archetype. Voor mijn project richtte ik me op young professionals van 25–35 jaar, met het Caregiver-archetype. Hierbij heb ik een gezonde, energieke cornflakes ontwikkeld die energiedipjes helpt voorkomen.</p>
+            </div>
+
+            <!-- Project 3 -->
+            <div class="project-item">
+                <img src="../images/JPEG campagne beeld 2.jpg" height="410" width="400"/>
+                <h3>Campagnebeeld nieuwe ijssmaak</h3>
+                <p>Voor het vak Brand Design hebben we een nieuwe ijssmaak ontwikkeld voor een ijssalon in Antwerpen die bekendstaat om zijn bizarre smaken. Mijn smaak was Lemon Mint Tea Sorbet. Daarnaast moesten we een campagnebeeld maken dat de nieuwe smaak aantrekkelijk presenteert en mensen aantrekt die hem willen uitproberen. Hierbij hield ik rekening met de doelgroep — families uit de middenklasse, met een focus op positiviteit en gezelligheid en het bijbehorende archetype:Innocent.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+</section>
+
+
+<section class="section" id="contact">
+    <div class="container">
+        <h2>Want to know something?</h2>
+        <p>Ik doe al atletiek sinds mijn zevende en ben doorheen de jaren sterk gegroeid in deze sport. Hierdoor ben ik inmiddels al vijf jaar actief op topsportniveau. Ik ben een sprinter, gespecialiseerd in de 100 en 200 meter. Dankzij atletiek krijg ik de kans om veel te reizen, waarbij Zuid-Afrika mijn favoriete bestemming is.
+            Daar ga ik twee keer per jaar op trainingsstage.</p>
+    </div>
+</section>
+
+<section class="section" id="extra"></section>
+<section class="section">
+    <h2>Learning Objectives</h2>
+
+    <h3>Creatieve Vormgever</h3>
+
+    <h4>OLR1</h4>
+    <p>De gegradueerde interpreteert de vraag van de opdrachtgever, bereidt de eigen digitale opdracht voor (voorontwerp, ontwerp en realisatie) en houdt hierbij rekening met de specificaties, de methodiek, planning uit de analyse.</p><br>
+    <p class="antwoord">Ik leer de vraag van de opdrachtgever correct interpreteren en vertalen naar een digitale opdracht, die ik stap voor stap uitwerk van voorontwerp tot realisatie, rekening houdend met de analyse en planning.</p><br>
+
+    <h4>OLR2</h4>
+    <p>De gegradueerde realiseert binnen het eigen aandeel van de opdracht creatieve en visueel aantrekkelijke ontwerpen voor assets en gebruiksvriendelijke, geanimeerde interfaces gericht op een aangename gebruikservaring, en toetst deze af aan de specificaties van de opdracht.</p><br>
+    <p class="antwoord">Ik werk creatieve en visueel aantrekkelijke ontwerpen uit voor mijn deel van de opdracht, maak gebruiksvriendelijke en geanimeerde interfaces en controleer of ze voldoen aan de opdracht Dit is te zien aan de rustige uitstraling met een accentkleur. Als ook bij de projecten, deze werden steeds uitgevoerd volgens de richtlijnen en vallen binnen een bepaalde stijl.</p><br>
+
+    <h4>OLR3</h4>
+    <p>De gegradueerde werkt gebruiksvriendelijke interfaces en assets praktisch uit, integreert bestaande digitale assets en gebruikt professionele software om het gepaste bestandsformaat te realiseren.</p><br>
+    <p class="antwoord">Gebruiksvriendelijke interfaces en assets worden uitgewerkt, bestaande digitale onderdelen toegevoegd en de juiste bestandsformaten gemaakt met professionele software. Dit is te zien aan de opdrachten bij projecten hiervoor werden formaten voor voorzien </p><br>
+
+    <h4>OLR4</h4>
+    <p>De gegradueerde werkt een creatieve datavisualisatie uit op basis van dynamische gegevens afgestemd op het medium.</p><br>
+    <p class="antwoord">Ik kan een creatieve datavisualisatie maken met actuele gegevens die passen bij het medium.</p><br>
+
+    <h3>Front-end Ontwikkelaar</h3>
+
+    <h4>OLR5</h4>
+    <p>De gegradueerde integreert dynamische gegevens in de (online) softwaretoepassing.</p><br>
+    <p class="antwoord">Het kost wat tijd en energie, maar ik kan dynamische gegevens in een (online) softwaretoepassing verwerken.</p><br>
+
+    <h4>OLR6</h4>
+    <p>De gegradueerde implementeert de (online) toepassing en stemt deze af op het medium. De gegradueerde past de softwaretoepassing aan op basis van feedback en houdt ze up to date.</p><br>
+    <p class="antwoord">Ik zet de (online) toepassing op en zorg dat hij goed werkt voor het medium. Daarna pas ik hem aan op feedback en hou ik hem up-to-date.</p><br>
+
+    <h4>OLR7</h4>
+    <p>De gegradueerde werkt projectmatig en houdt zich aan de vooropgestelde planning en methodiek. De gegradueerde zoekt mee naar oplossingen en onderbouwt deze.</p><br>
+    <p class="antwoord">Er wordt projectmatig gewerkt volgens de planning en methodiek, al duren sommige dingen soms langer dan gepland. Daarbij wordt actief mee gezocht naar oplossingen die goed onderbouwd kunnen worden.</p><br>
+
+    <h3>Communicator / Teamspeler</h3>
+
+    <h4>OLR8</h4>
+    <p>De gegradueerde communiceert en rapporteert op een correcte wijze, afgestemd op het doelpubliek en hanteert het gepaste, ook Engelstalig, vakjargon.</p><br>
+    <p class="antwoord">Communiceren en rapporteren lukt prima, afgestemd op het doelpubliek en met het juiste vakjargon, ook in het Engels. Door de verschillende feedbackmomenten heb ik dit kunnen toepassen en verder ontwikkeld</p><br>
+
+    <h4>OLR9</h4>
+    <p>De gegradueerde werkt constructief samen in een multidisciplinair team en draagt actief bij tijdens overlegmomenten.</p><br>
+    <p class="antwoord">Samenwerken in een multidisciplinair team gaat goed en ik draag actief bij tijdens overlegmomenten.</p><br>
+
+    <h3>Levenslang lerende</h3>
+
+    <h4>OLR10</h4>
+    <p>De gegradueerde ontwikkelt de nodige zelfkennis, is zelfkritisch en bevordert zo zijn persoonlijke en professionele groei.</p><br>
+    <p class="antwoord">Ik kijk kritisch naar mijn eigen werk en gebruik dat om mezelf persoonlijk en professioneel te blijven verbeteren.</p><br>
+
+    <h4>OLR11</h4>
+    <p>De gegradueerde werkt deontologisch, duurzaam, handelt conform de wetgeving en houdt rekening met veiligheids- en privacyrichtlijnen.</p><br>
+    <p class="antwoord">Ik werk op een correcte en duurzame manier, volg de wetgeving en houd altijd rekening met veiligheid en privacy.</p><br>
+
+    <h4>OLR12</h4>
+    <p>De gegradueerde ontwikkelt en onderhoudt het eigen deskundigheidsniveau door relevante duurzame evoluties in de sector actief op te volgen en verbetert continu de eigen praktijk.</p><br>
+    <p class="antwoord">Ik volg actief de ontwikkelingen in de sector en werk continu aan mijn vaardigheden. Buiten school werk ik aan kleine projecten, soms van opdrachtgevers, wat me helpt mijn werk steeds te verbeteren.</p><br>
+
+</section>
+</div>
+</body>
+
+<footer>
+    <p>
+        Lees onze <a href="privacy.txt" target="_blank">Privacy-richtlijnen</a>.
+    </p>
+</footer>
+</html>
